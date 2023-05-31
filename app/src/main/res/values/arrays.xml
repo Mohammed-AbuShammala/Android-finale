@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Romantic</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+    </string-array>
+    <string-array name="search_category">
+        <item>All</item>
+        <item>Romantic</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+    </string-array>
+    <string-array name="language">
+        <item>Arabic</item>
+        <item>English</item>
+    </string-array>
+</resources>
